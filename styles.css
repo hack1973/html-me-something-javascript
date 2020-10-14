@@ -1,0 +1,64 @@
+html {
+    background-color: #b0c4de;
+}
+
+div {
+    margin: 75px;
+    padding: 25px;
+    font-family: Arial;
+}
+
+.difftext {
+    font-family: cursive;
+}
+
+#first {
+    font-size: 40px;
+    color: DarkBlue;
+}
+
+h1 {
+    font-style: italic;
+    font-weight: 800;
+    color: Firebrick;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+a:link {
+    color: #FF0000;
+}
+
+a:visited {
+    color: #00FF00;
+}
+
+img {
+    height: 600px;
+    width: 400px;
+    border: 3px solid black;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+article p {
+    color: green;
+    font-size: 15px;
+    margin-top: 0;
+    padding: 0;
+}
+
+article a {
+    font-size: 22px;
+}
+
+footer {
+    color: Cyan;
+}
